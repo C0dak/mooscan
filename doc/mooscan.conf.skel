@@ -1,0 +1,10 @@
+# Skeleton configuration file
+git_path: moodle-git
+update_module_freq: 14
+update_code_freq: 14
+
+user_agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+
+# Configuration for the databases
+module_database: modules.db
+versions_database: versions.db

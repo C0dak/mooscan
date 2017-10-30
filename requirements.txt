@@ -1,3 +1,4 @@
 urllib3==1.20
 requests==2.10.0
 pygit2==0.26.0
+pyyaml==3.12
